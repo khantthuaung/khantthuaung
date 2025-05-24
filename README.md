@@ -21,12 +21,9 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 
 ### 🎮 Game Development
-- **[CubicClash](https://github.com/khantthuaung/CubicClash)**: A Rubik's Cube competition simulator with training grounds and daily challenges.
 - **[SnakePygame](https://github.com/khantthuaung/SnakePygame)**: A classic Snake game built with Pygame, featuring custom menus and sound controls.
 - **[SpaceInvaders](https://github.com/khantthuaung/SpaceInvaders)**: A recreation of the classic Space Invaders game using Python.
 
-### 🧠 Machine Learning
-- **[One-Year ML Challenge](https://github.com/khantthuaung/one-year-ml-challenge)**: A commitment to complete one ML project every 15 days for a year, covering various algorithms and applications.
 
 ### 🌐 Web Development
 - **[FitnessGym](https://github.com/khantthuaung/fitnessgym)**: A university project simulating a fitness gym management system with user profiles and workout tracking.
@@ -45,6 +42,6 @@ Here are some ideas to get you started:
 ## 📫 Contact Me
 
 - GitHub: [khantthuaung](https://github.com/khantthuaung)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:kta.khantthuaung@gmail.com)
 
 Let's connect and build something amazing together!
