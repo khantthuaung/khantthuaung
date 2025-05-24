@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 ## 📫 Contact Me
 
 - GitHub: [khantthuaung](https://github.com/khantthuaung)
-- Email: [your.email@example.com](mailto:kta.khantthuaung@gmail.com)
+- Email: [kta.khantthuaung@gmail.com](mailto:kta.khantthuaung@gmail.com)
 
 Let's connect and build something amazing together!
