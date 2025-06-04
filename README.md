@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Khant Thu Aung
 
-🎯 Passionate developer with a focus on software development, game design, and machine learning. I enjoy building projects that solve real-world problems and enhance user experiences.
+🎯 Passionate developer with a focus on software development, game design, and machine learning.
 
 ## 🚀 Projects
 
