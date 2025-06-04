@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
+### Currently Working on
+-** Cubie: [cubie](https://github.com/khantthuaung/Cubie)
+
 ### 🎮 Game Development
 - **[Cubie(2D Rubik's Cube competition simulatior)](https://github.com/khantthuaung/Cubie)** *(in progress)*: A MonoGame-based 2D RPG featuring player stats, minigames, and random difficulty events.
 - **[SnakePygame](https://github.com/khantthuaung/SnakePygame)**: A classic Snake game built with Pygame, featuring custom menus and sound controls.
