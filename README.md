@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 👋 Hi, I'm Khant Thu Aung
 
 🎯 Passionate developer with a focus on software development, game design, and machine learning. I enjoy building projects that solve real-world problems and enhance user experiences.
@@ -21,14 +22,9 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 
 ### 🎮 Game Development
+- **[Cubie(2D Rubik's Cube competition simulatior)](https://github.com/khantthuaung/Cubie)** *(in progress)*: A MonoGame-based 2D RPG featuring player stats, minigames, and random difficulty events.
 - **[SnakePygame](https://github.com/khantthuaung/SnakePygame)**: A classic Snake game built with Pygame, featuring custom menus and sound controls.
-
-### 🌐 Web Development
-- **[FitnessGym](https://github.com/khantthuaung/fitnessgym)**: A university project simulating a fitness gym management system with user profiles and workout tracking.
-
-### 📊 Data Analysis
-- **[WeatherForecast](https://github.com/khantthuaung/weatherforecast)**: A Python application that predicts weather using NOAA's JFK Airport data.
-- **[Albion Blackmarket Flipping](https://github.com/khantthuaung/albion-blackmarket-flipping)**: A tool for comparing local market prices to the black market in Albion Online.
+- **[Tetris with Ruby](https://github.com/khantthuaung/tetris_ruby)**: A classic tetris game built with ruby.
 
 ## 🛠️ Skills
 
