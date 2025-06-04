@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 
 ### Currently Working on
-- **.Cubie: [cubie](https://github.com/khantthuaung/Cubie)
+- Cubie: [cubie](https://github.com/khantthuaung/Cubie)
 
 ### 🎮 Game Development
 - **[Cubie(2D Rubik's Cube competition simulatior)](https://github.com/khantthuaung/Cubie)** *(in progress)*: A MonoGame-based 2D RPG featuring player stats, minigames, and random difficulty events.
